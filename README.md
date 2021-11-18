@@ -15,10 +15,5 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coisini-zxz&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coisini-zxz)](https://github.com/Coisini-zxz/Epidemic_Project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Coisini-zxz&repo=Epidemic_Project)](https://github.com/Coisini-zxz/Epidemic_Project)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+<a href="https://github.com/Coisini-zxz/Epidemic_Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coisini-zxz&repo=Epidemic_Project" />

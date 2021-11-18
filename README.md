@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coisini-zxz&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coisini)](https://github.com/Coisini-zxz/Epidemic_Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Coisini-zxz&repo=Epidemic_Project)](https://github.com/Coisini-zxz/Epidemic_Project)

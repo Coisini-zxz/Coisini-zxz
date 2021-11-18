@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Header](http://simpleicons.p2hp.com/icons/airbnb.svg"Header")](https://www.charmingdanger.xyz/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coisini-zxz&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coisini-zxz)](https://github.com/Coisini-zxz/Epidemic_Project)

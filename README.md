@@ -5,7 +5,6 @@
 * 白日梦想家
 * 有一个可爱的女朋友
 
-目前在准备跨考408 祝我上岸吧
 
 ## 联系
 [Telegram](https://t.me/WxylkxyZz)
